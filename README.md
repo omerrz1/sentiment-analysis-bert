@@ -1,4 +1,4 @@
-## My website https://www.imomer.net
+
 ## sentiment-analysis
 # API coming soon
 ### 1. Load model and tokenizer
